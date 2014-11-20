@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Nodejs wrapper for the Podio API",
   "main": "lib/podio.js",
+  "dependencies": {
+    "form-data": "^0.1.4"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/haugstrup/podiojs"
